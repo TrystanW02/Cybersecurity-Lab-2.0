@@ -33,7 +33,7 @@ This directory shows how to provision the NAT network being used for this projec
 
 [PLACE PHOTO PATH HERE]: #
 
-#### NOTE: Each new virtual machine provisioned should have this network selected
+### ***NOTE: Each new virtual machine provisioned should have this network selected***
 
 ***
 
