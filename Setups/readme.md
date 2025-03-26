@@ -1,17 +1,11 @@
-# Provisions and Setups
+# Provisioning the Technologies
 
-This directory shows how to provision the NAT network being used for this project, as well as provision and setup of each machine used.
+This directory shows how to provision the NAT network being used for this project, as well as how to provision the virtual machines and adding guest additions.
 
 ## Table of Contents
 
 * NAT Network
 * Virtual Machines
-  - ***Domain Controller & Active Directory:*** Windows Server 2025
-  - ***Windows Workstation:*** Windows 11 Enterprise
-  - ***Linux Workstation & Security Server:*** Ubuntu Desktop
-  - ***SMTP Relay Server:*** Ubuntu Server
-  - ***Security Playground:*** Security Onion
-  - ***Attacker Environment:*** Kali Linux 2024
 * Guest Additions
   - Windows
   - Linux
