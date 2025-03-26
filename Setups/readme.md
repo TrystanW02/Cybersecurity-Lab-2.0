@@ -77,3 +77,44 @@ This directory shows how to provision the NAT network being used for this projec
 #### Step 11: Take a Snapshot
 
 [PLACE PHOTO PATH HERE]: #
+
+***
+
+# Guest Additions
+> Guest additions allow extra functionality and allow the user to interact with VirtualBox instead of the machines. It also allows for the machines to be in full screen instead of the windowed view.
+
+## Windows
+#### Step 1: With the machine running, navigate to the menu bar > Devices > "Insert Guest Additions CD image..."
+
+[PLACE PHOTO PATH HERE]: #
+
+#### Step 2: Navigate to "File Explorer" > "This PC" > "VirtualBox Guest Additions" > "VBoxWindowsAdditions" > Follow the default installation > "Reboot Now"
+
+[PLACE PHOTO PATH HERE]: #
+[PLACE PHOTO PATH HERE]: #
+[PLACE PHOTO PATH HERE]: #
+
+#### Step 3: Allow the virtual machine to restart. Full screen should be enabled now
+
+## Linux
+#### Step 1: With the machine running, navigate to the menu bar > Devices > "Insert Guest Additions CD image..."
+
+[PLACE PHOTO PATH HERE]: #
+
+#### Step 2: Select the new CD disk image that appears on the tool bar
+
+[PLACE PHOTO PATH HERE]: #
+
+#### Step 3: Right click the whitespace > "Open in Terminal"
+
+[PLACE PHOTO PATH HERE]: #
+
+#### Step 4: Type the following command:
+'''bash
+sudo ./VboxLinuxAdditions.run
+'''
+#### Type the user's password
+
+[PLACE PHOTO PATH HERE]: #
+
+
