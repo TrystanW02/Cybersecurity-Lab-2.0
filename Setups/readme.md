@@ -109,12 +109,16 @@ This directory shows how to provision the NAT network being used for this projec
 
 [PLACE PHOTO PATH HERE]: #
 
-#### Step 4: Type the following command:
+#### Step 4: Type the following command, then type the users password:
 ```bash
 sudo ./VboxLinuxAdditions.run
 ```
-#### Type the user's password
 
 [PLACE PHOTO PATH HERE]: #
 
+#### Step 5: Allow the system to reboot. Type the following command to reboot the system:
+```bash
+reboot
+```
 
+[PLACE PHOTO PATH HERE]: #
