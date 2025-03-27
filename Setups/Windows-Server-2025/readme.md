@@ -7,6 +7,7 @@
 
 ## Table of Contents
 
+* Network Topology
 * Setup Windows Server 2025
   - Disable Default Logoff
   - Disable CTRL + ALT + DEL
@@ -15,3 +16,8 @@
 * Setup DNS
 * Setup DHCP
 * Add User Accounts in Active Directory
+
+***
+
+# Network Topology
+
