@@ -35,11 +35,11 @@
 
 #### Step 5: Once the login screen appears, navigate to the top bar > Input > Keyboard > "Insert Ctrl-Alt-Del" > After login, select "Required Only"
 
-## Disable Default Logoff
+## *Disable Default Logoff*
 
 #### Step 1: Settings > System > Power > "Screen timeout" > "Never"
 
-## Disable CTRL + ALT + DEL
+## *Disable CTRL + ALT + DEL*
 
 #### Step 1: On the machine, search "Local Security Policy" > Navigate to "Security Options" > Scroll down and find "Interactive logon: Do not require CTRL+ALT+DEL" > Enable > Apply > OK
 
